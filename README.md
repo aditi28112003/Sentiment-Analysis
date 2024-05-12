@@ -1,4 +1,4 @@
-**Sentiment Analysis using Python**
+#Sentiment Analysis using Python#
 
 This project demonstrates sentiment analysis using Python. It utilizes the string library for text preprocessing and the Counter class from the collections module for analysis. Additionally, it employs matplotlib for visualization.
 Getting Started
